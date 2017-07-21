@@ -1,0 +1,17 @@
+{
+  "name": "my-message-backend",
+  "version": "1.0.0",
+  "description": "Backend for message board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerthikumar Ravichandran",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "module": "^1.2.5",
+    "mongoose": "^4.11.3"
+  }
+}
